@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lgGv
+ls -lagGv [[:digit:]]*
