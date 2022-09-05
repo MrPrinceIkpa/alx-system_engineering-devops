@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -nw 1 iacta|echo>>iacta
+cat iacta|tail -nw 1|echo>>iacta
