@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -s '\n' '\n'|cut -c 1
+tr -s '\n' '\n'|cut -b 1
