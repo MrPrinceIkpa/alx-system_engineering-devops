@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "Obinichi\nAmadi\nPrince"|cut -c "1"
+echo -e|cut -c "1"
