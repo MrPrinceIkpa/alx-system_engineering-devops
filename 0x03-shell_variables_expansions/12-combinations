@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -ne "\n"{a..z}{a..z}|grep -Pv "oo"|tail -n +2
+echo -ne "\n"{a..z}{a..z}|grep -v "oo"|tail +2|sort
